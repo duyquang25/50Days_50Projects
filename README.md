@@ -8,3 +8,5 @@ Project 3: Rotating Navigation
 link: duyquang25.github.io/50Days_50Projects/Project3/index.html
 Project 4: Hidden Search
 link: duyquang25.github.io/50Days_50Projects/Project4/index.html
+Project 5: Blur loading
+link: duyquang25.github.io/50Days_50Projects/Project5/index.html
