@@ -14,5 +14,5 @@ Project 6: Scroll Animation
 link: duyquang25.github.io/50Days_50Projects/Project6/index.html
 Project 7: Split landing page
 link: duyquang25.github.io/50Days_50Projects/Project7/index.html
-Project 8: From Wave Ani
+Project 8: Form Wave Ani
 link: duyquang25.github.io/50Days_50Projects/Project8/index.html
