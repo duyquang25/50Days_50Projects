@@ -34,7 +34,7 @@ UPDATE LINK 👇
 | 23  | [Kinetic Loader](https://github.com/duyquang25/50Days_50Projects/tree/main/Project23)                               | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project23/index.html)                |
 | 24  | [Content Placeholder](https://github.com/duyquang25/50Days_50Projects/tree/main/Projectd24)                     | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project23/index.html)           |
 | 25  | [Sticky Navbar](https://github.com/duyquang25/50Days_50Projects/tree/main/Project25)                                 | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project25/index.html)                 |
-| 26  | [Double Vertical Slider](https://github.com/duyquang25/50Days_50Projects/tree/main/Project26)               | [Live Demo](https://duyquang26.github.io/50Days_50Projects/Project25/index.html)        |
+| 26  | [Double Vertical Slider](https://github.com/duyquang25/50Days_50Projects/tree/main/Project26)               | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project26/index.html)        |
 | 27  | [Toast Notification](https://github.com/duyquang25/50Days_50Projects/tree/main/Project27)                       | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project27/index.html)            |
 | 28  | [Github Profiles](https://github.com/duyquang25/50Days_50Projects/tree/main/Project28)                             | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project28/index.html)               |
 | 29  | [Double Click Heart](https://github.com/duyquang25/50Days_50Projects/tree/main/Project29)                       | [Live Demo](https://duyquang25.github.io/50Days_50Projects/Project29/index.html)            |
