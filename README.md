@@ -4,8 +4,7 @@ This is the main repository for all of the projects in the course.
 
 UPDATE LINK 👇
 
--   [Course Link]()
--   [Course Info Website]()
+-   [Main Website](https://duyquang25.github.io/50Days_50Projects/mainProject/index.html)
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
