@@ -397,6 +397,12 @@ h2 {
 }
 
 
+@media (max-width: 500px){
+    .logo_text{
+        font-size: 1rem;
+    }
+}
+
 
 
 
