@@ -79,7 +79,9 @@ h2 {
 }
 
 .main-nav a:hover {
+    padding-bottom: 5px;
     color: #ccc;
+    border-bottom: 2px solid #ccc;
 }
 
 .showcase {
